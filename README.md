@@ -46,6 +46,24 @@ https://www.cnblogs.com/twzy/p/14714651.html
 
 
 
+#### 调整之后
+
+最近这几天有对`PCB`做了一些调整，另外我发现立创`EDA`桌面版好像是不支持`#D`预览的，至少效果是没有在线版效果好的：
+
+![](https://gitee.com/sysker/picBed/raw/master/blog/20220222220652.png)
+
+
+
+![](https://gitee.com/sysker/picBed/raw/master/blog/20220222221355.png)
+
+
+
+![](https://gitee.com/sysker/picBed/raw/master/blog/20220222221628.png)
+
+
+
+![](https://gitee.com/sysker/picBed/raw/master/blog/20220222221658.png)
+
 #### 后续计划
 
 暂时还不考虑打板，因为我觉得目前的`PCB`设计还有调整空间，电路部分我也还没好好研究，`F1C200s`这款芯片我也没有好好研究，所以后面要进一步研究这些电路和`PCB`设计，确保自己第一次打板就可以正常点亮。
